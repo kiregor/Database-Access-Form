@@ -1,0 +1,10 @@
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe.config
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.Properties.Resources.resources
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csproj.GenerateResource.Cache
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.MainMenu.resources
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.TemplateForm.resources
