@@ -30,45 +30,84 @@ namespace HappyTechFeedbackGenerator
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(TemplateForm));
             this.txtTemplateBox = new System.Windows.Forms.RichTextBox();
+            this.txtBoxTemplateInfo = new System.Windows.Forms.TextBox();
+            this.btnDirectoryfinder = new System.Windows.Forms.Button();
+            this.txtBoxSaveDirectory = new System.Windows.Forms.TextBox();
+            this.btnSaveTemplate = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtTemplateBox
             // 
             this.txtTemplateBox.AcceptsTab = true;
             this.txtTemplateBox.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txtTemplateBox.Location = new System.Drawing.Point(12, 12);
+            this.txtTemplateBox.Location = new System.Drawing.Point(12, 78);
             this.txtTemplateBox.Name = "txtTemplateBox";
-            this.txtTemplateBox.Size = new System.Drawing.Size(446, 498);
+            this.txtTemplateBox.Size = new System.Drawing.Size(545, 483);
             this.txtTemplateBox.TabIndex = 0;
-            //Default text in the template. In later versions, angle bracket tags will be used to load data from database. Treat them as placegolders.
-            this.txtTemplateBox.Text = "\n\n\n\n<date>\nDear <Honorific> <firstName> <LastName> \n\n\n Yours Sincerely,\n<staffName>";
-            //Property which aligns selected text. Here, it's used to make a letter head.
-            this.txtTemplateBox.SelectionAlignment = HorizontalAlignment.Right;
-            //Text which is aligned right.
-            this.txtTemplateBox.SelectedText = "<firstName> <lastName>\n<address>";
-
-            /*If no text in the 'frmtemplate' is aligned right, this means that the event handler has been added 
-            and previous changes to text formatting were rejected by the program. When that happens the selected 
-            text will merge with the general text. Just watch out for that.*/
-
+            this.txtTemplateBox.Text = "";
+            // 
+            // txtBoxTemplateInfo
+            // 
+            this.txtBoxTemplateInfo.Location = new System.Drawing.Point(12, 12);
+            this.txtBoxTemplateInfo.Multiline = true;
+            this.txtBoxTemplateInfo.Name = "txtBoxTemplateInfo";
+            this.txtBoxTemplateInfo.ReadOnly = true;
+            this.txtBoxTemplateInfo.Size = new System.Drawing.Size(545, 60);
+            this.txtBoxTemplateInfo.TabIndex = 1;
+            this.txtBoxTemplateInfo.Text = resources.GetString("txtBoxTemplateInfo.Text");
+            // 
+            // btnDirectoryfinder
+            // 
+            this.btnDirectoryfinder.Location = new System.Drawing.Point(386, 568);
+            this.btnDirectoryfinder.Name = "btnDirectoryfinder";
+            this.btnDirectoryfinder.Size = new System.Drawing.Size(75, 23);
+            this.btnDirectoryfinder.TabIndex = 2;
+            this.btnDirectoryfinder.Text = "Browse";
+            this.btnDirectoryfinder.UseVisualStyleBackColor = true;
+            // 
+            // txtBoxSaveDirectory
+            // 
+            this.txtBoxSaveDirectory.Location = new System.Drawing.Point(12, 570);
+            this.txtBoxSaveDirectory.Name = "txtBoxSaveDirectory";
+            this.txtBoxSaveDirectory.Size = new System.Drawing.Size(368, 20);
+            this.txtBoxSaveDirectory.TabIndex = 3;
+            // 
+            // btnSaveTemplate
+            // 
+            this.btnSaveTemplate.Location = new System.Drawing.Point(467, 568);
+            this.btnSaveTemplate.Name = "btnSaveTemplate";
+            this.btnSaveTemplate.Size = new System.Drawing.Size(90, 23);
+            this.btnSaveTemplate.TabIndex = 4;
+            this.btnSaveTemplate.Text = "Save Template";
+            this.btnSaveTemplate.UseVisualStyleBackColor = true;
+            this.btnSaveTemplate.Click += new System.EventHandler(this.btnSaveTemplate_Click);
             // 
             // TemplateForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(470, 522);
+            this.ClientSize = new System.Drawing.Size(569, 600);
+            this.Controls.Add(this.btnSaveTemplate);
+            this.Controls.Add(this.txtBoxSaveDirectory);
+            this.Controls.Add(this.btnDirectoryfinder);
+            this.Controls.Add(this.txtBoxTemplateInfo);
             this.Controls.Add(this.txtTemplateBox);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "TemplateForm";
             this.Text = "Template generator";
-            this.Load += new System.EventHandler(this.frmTemplate_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
         private System.Windows.Forms.RichTextBox txtTemplateBox;
+        private TextBox txtBoxTemplateInfo;
+        private Button btnDirectoryfinder;
+        private TextBox txtBoxSaveDirectory;
+        private Button btnSaveTemplate;
     }
 }

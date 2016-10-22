@@ -17,10 +17,9 @@ namespace HappyTechFeedbackGenerator
             InitializeComponent();
         }
 
-        //Event handler
-        private void frmTemplate_Load(object sender, EventArgs e)
+        private void btnSaveTemplate_Click(object sender, EventArgs e)
         {
-
+            Template.SaveTemplate(this.txtTemplateBox.Text);
         }
     }
 }

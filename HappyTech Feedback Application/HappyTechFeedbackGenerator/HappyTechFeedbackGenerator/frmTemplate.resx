@@ -117,4 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="txtBoxTemplateInfo.Text" xml:space="preserve">
+    <value>In the box below, write out any &lt;tags&gt; you want to use.  You can use tags present in the database or create new ones. You don't need to worry about header and footer as these are already built into the template. The line below shows, where the template will be saved, you can change the directory. once everything is done, click 'Create template' button to save the template.</value>
+  </data>
 </root>

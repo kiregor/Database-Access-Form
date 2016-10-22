@@ -29,5 +29,10 @@ namespace HappyTechFeedbackGenerator
         {
 
         }
+
+        private void btnNewFeedback_Click(object sender, EventArgs e)
+        {
+            Template.LoadTemplate();
+        }
     }
 }
