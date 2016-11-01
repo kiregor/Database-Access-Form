@@ -1,0 +1,72 @@
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe.config
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.Properties.Resources.resources
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csproj.GenerateResource.Cache
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.MainMenu.resources
+C:\Users\Kacper\Desktop\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.TemplateForm.resources
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe.config
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.MainMenu.resources
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.TemplateForm.resources
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.Properties.Resources.resources
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csproj.GenerateResource.Cache
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\SEMaster\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe.config
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csprojResolveAssemblyReference.cache
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.MainMenu.resources
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.TemplateForm.resources
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.Properties.Resources.resources
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csproj.GenerateResource.Cache
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Documents\GitHub\Database-Access-Form\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe.config
+C:\Users\Kacper\Documents\GitHub\Database-Access-Form\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Documents\GitHub\Database-Access-Form\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe.config
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\Database.mdf
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\Database_log.ldf
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.DBaccessForm.resources
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.MainMenu.resources
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.TemplateForm.resources
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.Properties.Resources.resources
+C:\Users\Kacper\Desktop\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csproj.GenerateResource.Cache
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe.config
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csprojResolveAssemblyReference.cache
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.DBaccessForm.resources
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.MainMenu.resources
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.TemplateForm.resources
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.Properties.Resources.resources
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csproj.GenerateResource.Cache
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\Database.mdf
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\Database_log.ldf
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\K\Desktop\SE PROJ GOOD\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe.config
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\Database.mdf
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\Database_log.ldf
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.DBaccessForm.resources
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.MainMenu.resources
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.TemplateForm.resources
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.Properties.Resources.resources
+C:\Users\Kacper\Desktop\SE PROJ GOODie\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csproj.GenerateResource.Cache

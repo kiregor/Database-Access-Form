@@ -28,3 +28,6 @@ C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Applicatio
 C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.csproj.GenerateResource.Cache
 C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
 C:\Users\dl481\Desktop\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
+C:\Users\Kacper\Documents\GitHub\Database-Access-Form\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\bin\Debug\HappyTechFeedbackGenerator.exe.config
+C:\Users\Kacper\Documents\GitHub\Database-Access-Form\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.exe
+C:\Users\Kacper\Documents\GitHub\Database-Access-Form\Database-Access-Form-master\HappyTech Feedback Application\HappyTechFeedbackGenerator\HappyTechFeedbackGenerator\obj\Debug\HappyTechFeedbackGenerator.pdb
