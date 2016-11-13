@@ -1,0 +1,30 @@
+﻿<Window x:Name="Happy_Tech___Login" x:Class="HappyTechLogin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HappyTechLogin"
+        mc:Ignorable="d"
+        Title="Happy Tech - Login" Height="350" Width="525" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="D:\Documents\Database-Access-Form-master\Master_V0.5\Icon1.ico">
+    <Grid x:Name="mainSpace">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF474747" Offset="0"/>
+                <GradientStop Color="#FF1A1A1A" Offset="0.72"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="Username" HorizontalAlignment="Left" Margin="195,87,0,0" VerticalAlignment="Top" Height="28" Width="71" FontFamily="Consolas" FontWeight="Bold" FontSize="14" Foreground="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Cursor="None"/>
+        <Label x:Name="label1" Content="Password" HorizontalAlignment="Left" Margin="195,158,0,0" VerticalAlignment="Top" Height="29" Width="71" FontWeight="Bold" FontFamily="Consolas" FontSize="14" Foreground="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Cursor="None" ToolTip="Password between 7-18 characters"/>
+        <TextBox x:Name="usernameTB" HorizontalAlignment="Left" Height="25" Margin="300,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" Cursor="IBeam"/>
+        <PasswordBox x:Name="PasswordBoxPB" HorizontalAlignment="Left" Margin="300,158,0,0" VerticalAlignment="Top" Width="126" Height="29"/>
+        <Button x:Name="LoginBTN" Content="Log in" HorizontalAlignment="Left" Margin="195,240,0,0" VerticalAlignment="Top" Width="75" Click="LoginBTN_Click" Height="20" FontFamily="Consolas" FontSize="14" FontWeight="Bold"/>
+        <Button x:Name="LogoutBTN" Content="Log out" HorizontalAlignment="Left" Margin="351,240,0,0" VerticalAlignment="Top" Width="75" Click="LogoutBTN_Click" Height="20" FontFamily="Consolas" FontSize="14" FontWeight="Bold"/>
+        <Image x:Name="logoImage" HorizontalAlignment="Left" Height="150" VerticalAlignment="Top" Width="149" Source="D:\Documents\Database-Access-Form-master\Master_V0.5\happyTechLogo.png"/>
+    </Grid>
+
+</Window>
