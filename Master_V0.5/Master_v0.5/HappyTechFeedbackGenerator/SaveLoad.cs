@@ -13,6 +13,7 @@ namespace HappyTechFeedbackGenerator
     class SaveLoad
     {
         public static string auto;
+
         static public void save(string saveText, string initialDirectory)
         {
             //SFD = SaveFileDialog - Dialog that opens the saving browser
@@ -78,6 +79,7 @@ namespace HappyTechFeedbackGenerator
             return fileLocation;
         }
 
+        //PDF saving code, includes a browsing window.
         public static void pdfSave(RichTextBox txtbox)
         {
             SaveFileDialog SFD = new SaveFileDialog();

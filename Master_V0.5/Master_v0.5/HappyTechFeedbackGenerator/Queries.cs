@@ -8,16 +8,11 @@ namespace HappyTechFeedbackGenerator
 {
     class Queries
     {
+        //Method that will return the appropriate query. With this query, only the related content will be displayed in the data grid view.
         public static String methodss(string tagName)
         {
             String TagContentQuery = "SELECT Content FROM tblContent WHERE tblcontent.TagID IN (SELECT TagID FROM tblTags WHERE TagName = '" + tagName + "')";
             return TagContentQuery;
         }
-        
-        //public static String TagContentQuery = "SELECT Content FROM tblContent WHERE tblcontent.TagID IN (SELECT TagID FROM tblTags WHERE TagName = '";
-        //public static String queryfinish = "')";
     }
-
-    
 }
-    //public static String TagContentQuery = "SELECT Content FROM tblContent WHERE tblcontent.TagID IN (SELECT TagID FROM tblTags WHERE TagName = '<123>')";

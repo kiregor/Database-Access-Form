@@ -36,11 +36,13 @@ namespace HappyTechFeedbackGenerator
             {
                 string temp = Queries.methodss(s);
                 temp.ToString();
-
-                //MessageBox.Show(s);
             }
-            DBContentAccess.GetFormInstance();
-            DBContentAccess.mainn();
+            //Error handline, when the user decided to cancel template-loading.
+            if (templateText != "fail")
+            {
+                DBContentAccess.GetFormInstance();
+                DBContentAccess.mainn();
+            }
         }
     }
 }

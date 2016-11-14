@@ -26,7 +26,7 @@ namespace HappyTechFeedbackGenerator
                 textBlock = templatePortion;
                 if (textBlock.Contains("<") && textBlock.Contains(">"))
                 {
-                    //Sometimes single string may contain multiple tags, this will find all of them.
+                    //Sometimes single string may contain multiple tags, this will find all of them and, cut them.
                     while (textBlock.Contains("<") && textBlock.Contains(">"))
                     {
                         tag = textBlock.Substring(textBlock.IndexOf("<"), textBlock.IndexOf(">") + 1);
