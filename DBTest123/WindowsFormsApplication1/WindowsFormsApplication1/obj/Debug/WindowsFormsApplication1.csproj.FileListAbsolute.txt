@@ -1,0 +1,12 @@
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TestDB123.mdf
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TestDB123_log.ldf
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.dgv.resources
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Kacper\Desktop\DBTest123\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
