@@ -49,6 +49,21 @@ namespace HappyTechFeedbackGenerator
             }
         }
 
+        public static DataTable UserQuery()
+        {
+            string s1 = Queries.userListQuery();
+            DataSet ds1 = DBConnection.GetConInstance().DBconnection1(s1);
+            DataTable dtt = ds1.Tables[0];
+
+            return dtt;
+        }
+
+        public static void userCreation(string firstName, string lastName, string username, string password, bool admin)
+        {
+            string s1 = Queries.userCreationQuery(firstName, lastName, username, password, admin);
+            DBConnection.GetConInstance().UserData(s1);
+        }
+
         //Increments the value of i, runs the mainn method to refresh the datagrid view.
         public static void NEXTmethod()
         {

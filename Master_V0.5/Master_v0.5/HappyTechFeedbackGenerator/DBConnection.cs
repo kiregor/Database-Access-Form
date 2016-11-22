@@ -75,5 +75,14 @@ namespace HappyTechFeedbackGenerator
             return dt;
         }
 
+        public void UserData(string q)
+        {
+            comm = new SqlCommand();
+            ConnectionOpen();
+            comm.Connection = con;
+            comm.CommandText = q;
+            ConnectionCLose();
+        }
+
     }
 }

@@ -14,5 +14,24 @@ namespace HappyTechFeedbackGenerator
             String TagContentQuery = "SELECT Content FROM tblContent WHERE tblcontent.TagID IN (SELECT TagID FROM tblTags WHERE TagName = '" + tagName + "')";
             return TagContentQuery;
         }
+
+        public static String userCreationQuery(string firstName, string lastName, string username, string password, bool admin)
+        {
+            int adminCheck = 0;
+            if (admin)
+            {
+                adminCheck = 1;
+            }
+            string output = "INSERT INTO tblUsers (FirstName, LastName, Username, Password, Admin) VALUES (" + firstName + ", " + lastName + ", " + username + ", " + password + ", " + adminCheck + ")";
+
+            return output;
+        }
+
+        public static String userListQuery()
+        {
+            string output = "SELECT * FROM tblUsers";
+
+            return output;
+        }
     }
 }

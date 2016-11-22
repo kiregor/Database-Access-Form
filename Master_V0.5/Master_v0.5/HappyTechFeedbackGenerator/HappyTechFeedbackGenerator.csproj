@@ -78,6 +78,18 @@
     <Compile Include="FeedbackDoubleCheckfrm.Designer.cs">
       <DependentUpon>FeedbackDoubleCheckfrm.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUserCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUserCreation.Designer.cs">
+      <DependentUpon>frmUserCreation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Queries.cs" />
     <Compile Include="SaveLoad.cs" />
     <Compile Include="frmMenu.cs">
@@ -102,11 +114,17 @@
     <EmbeddedResource Include="FeedbackDoubleCheckfrm.resx">
       <DependentUpon>FeedbackDoubleCheckfrm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMenu.resx">
       <DependentUpon>frmMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTemplate.resx">
       <DependentUpon>frmTemplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUserCreation.resx">
+      <DependentUpon>frmUserCreation.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

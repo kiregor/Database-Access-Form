@@ -31,5 +31,11 @@ namespace HappyTechFeedbackGenerator
             Template.LoadTemplate();
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmUserCreation test = new frmUserCreation();
+            test.Show();
+        }
     }
 }
