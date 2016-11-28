@@ -1,0 +1,14 @@
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\bin\Debug\HappyTechLogin.exe.config
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\bin\Debug\HappyTechLogin.exe
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\bin\Debug\HappyTechLogin.pdb
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\App.g.cs
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\HappyTechLogin_MarkupCompile.cache
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\HappyTechLogin_MarkupCompile.lref
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\HappyTechLogin.g.resources
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\HappyTechLogin.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\HappyTechLogin.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\HappyTechLogin.exe
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\HappyTechLogin.pdb
+d:\documents\visual studio 2015\Projects\HappyTechLogin\HappyTechLogin\obj\Debug\HappyTechLogin.csprojResolveAssemblyReference.cache
