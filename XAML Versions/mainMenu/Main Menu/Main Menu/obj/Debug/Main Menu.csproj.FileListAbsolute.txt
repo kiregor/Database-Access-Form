@@ -1,0 +1,14 @@
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\bin\Debug\Main Menu.exe.config
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\bin\Debug\Main Menu.exe
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\bin\Debug\Main Menu.pdb
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\Main Menu.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\App.g.cs
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\Main Menu_MarkupCompile.cache
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\Main Menu_MarkupCompile.lref
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\Main Menu.g.resources
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\Main_Menu.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\Main Menu.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\Main Menu.exe
+d:\documents\visual studio 2015\Projects\Main Menu\Main Menu\obj\Debug\Main Menu.pdb
