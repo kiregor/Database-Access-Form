@@ -1,0 +1,23 @@
+﻿<Window x:Class="Create_Template.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Create_Template"
+        mc:Ignorable="d"
+        Title="Template Creator" Height="670" Width="525" Icon="D:\Documents\Visual Studio 2015\Projects\Create Template\happyTech Logo.ico">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF2B2B2B" Offset="0"/>
+                <GradientStop Color="Black" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="19,19,0,0" TextWrapping="Wrap" Text="In the box below, write out any &lt;tags&gt; you want to use. You can use tags present in the database or create new ones. You needn't worry about headers and footers as they are already built into the template. The line below shows where the template will be saved, you can then change the directory as to where you want to save it. Once everything is done, click the 'Save Template' button to finalize and save the template." VerticalAlignment="Top" Width="480" FontFamily="Consolas" FontWeight="Bold" Foreground="White"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="19,599,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="290"/>
+        <Button x:Name="button" Content="Save Template" HorizontalAlignment="Left" Margin="407,600,0,0" VerticalAlignment="Top" Width="92" Background="#FF474747" BorderBrush="{x:Null}" Foreground="White" FontFamily="Consolas" FontWeight="Bold"/>
+        <Button x:Name="button1" Content="Browse" HorizontalAlignment="Left" Margin="318,600,0,0" VerticalAlignment="Top" Width="75" Background="#FF474747" BorderBrush="{x:Null}" Foreground="White" FontFamily="Consolas" FontWeight="Bold"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="470" Margin="19,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="480"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\bin\Debug\Create Template.exe.config
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\bin\Debug\Create Template.exe
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\bin\Debug\Create Template.pdb
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\Create Template.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\App.g.cs
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\Create Template_MarkupCompile.cache
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\Create Template_MarkupCompile.lref
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\Create Template.g.resources
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\Create_Template.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\Create Template.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\Create Template.exe
+d:\documents\visual studio 2015\Projects\Create Template\Create Template\obj\Debug\Create Template.pdb
