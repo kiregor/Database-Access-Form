@@ -14,5 +14,29 @@ namespace HappyTechFeedbackGenerator
             String TagContentQuery = "SELECT Content FROM tblContent WHERE tblcontent.TagID IN (SELECT TagID FROM tblTags WHERE TagName = '" + tagName + "')";
             return TagContentQuery;
         }
+
+        public static string insert(string tag)
+        {
+            string TagInsertQuery = "INSERT into tblTags (tagName) Values ('" + tag + "')";
+            return TagInsertQuery;
+        }
+
+        public static string addTagContent(string Tag, string input)
+        {
+            string TagContentInsertQuery = "INSERT into tblContent (TagID, Content) Values ((SELECT TagID FROM tblTags WHERE TagName = '" + Tag + "'),'" + input + "')";
+            return TagContentInsertQuery;
+        }
+
+        public static string removeTagContent(string Tag, string removal)
+        {
+            string TagContentRemovalQuery = "DELETE FROM tblContent WHERE TagID = (SELECT TagID FROM tblTags WHERE TagName = '" + Tag + "') AND Content = '" + removal + "')";
+            return TagContentRemovalQuery;
+        }
+
+        public static string checkContent(string tag)
+        {
+            string checkContentQuery = "SELECT COUNT(*) FROM tblContent WHERE TagID = (SELECT TagID FROM tblTags WHERE TagName = '" + tag + "')";
+            return checkContentQuery;
+        }
     }
 }

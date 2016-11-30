@@ -21,6 +21,28 @@ namespace HappyTechFeedbackGenerator
         {
             string initialDirectory = txtBoxSaveDirectory.Text;
             Template.SaveTemplate(txtTemplateBox.Text, initialDirectory);
+            List<string> tagList = TemplateSplitter.templateSplitter(txtTemplateBox.Text);
+            if (!(tagList.Count == 0))
+            {
+                foreach (string x in tagList)
+                {
+                    if (!DBConnection.GetConInstance().DBStore(Queries.insert(x)))
+                    {
+                        MessageBox.Show("Duplicate Tag");
+                    }
+                }
+                frmTagContent tagContent = new frmTagContent(tagList);
+                tagContent.FormClosed += (s, args) => this.Close();
+                tagContent.Show();
+                this.Hide();
+            }
+            else
+            {
+                if(MessageBox.Show(this,"There are no tags in this template, are you sure you wish to continue?", "Tag Error", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                {
+                    this.Close();
+                }
+            }
         }
 
         private void TemplateForm_Load(object sender, EventArgs e)

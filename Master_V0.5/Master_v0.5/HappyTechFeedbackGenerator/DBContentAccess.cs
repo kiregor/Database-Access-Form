@@ -97,5 +97,13 @@ namespace HappyTechFeedbackGenerator
                 }
             }
         }
+
+        public static DataTable tagContentAccess(List<string> tags, int i)
+        {
+            string s1 = Queries.methodss(tags[i]);
+            DataSet ds1 = DBConnection.GetConInstance().DBconnection1(s1);
+            DataTable dt = ds1.Tables[0];
+            return dt;
+        }
     }
 }

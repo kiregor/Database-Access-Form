@@ -78,6 +78,12 @@
     <Compile Include="FeedbackDoubleCheckfrm.Designer.cs">
       <DependentUpon>FeedbackDoubleCheckfrm.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmTagContent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTagContent.Designer.cs">
+      <DependentUpon>frmTagContent.cs</DependentUpon>
+    </Compile>
     <Compile Include="Queries.cs" />
     <Compile Include="SaveLoad.cs" />
     <Compile Include="frmMenu.cs">
@@ -104,6 +110,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMenu.resx">
       <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTagContent.resx">
+      <DependentUpon>frmTagContent.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTemplate.resx">
       <DependentUpon>frmTemplate.cs</DependentUpon>

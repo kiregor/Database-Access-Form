@@ -47,20 +47,12 @@ namespace HappyTechFeedbackGenerator
         {
             con.Close();
         }
-
-        //Set up the SQL command
-        /*public void _SQLCommandSetup(string query)
-        {
-            comm = new SqlCommand();
-            comm.Connection = con;
-            comm.CommandText = query;
-        }*/
+        
 
         //Connect to the database and access the required data. After the dataset is created, close the connection.
         public DataSet DBconnection1(string q)
         {
             comm = new SqlCommand();
-            string x = q;
             ConnectionOpen();
             comm.Connection = con;
             comm.CommandText = q;
@@ -75,5 +67,46 @@ namespace HappyTechFeedbackGenerator
             return dt;
         }
 
+        public bool DBStore(string q)
+        {
+            bool success = true;
+
+            comm = new SqlCommand();
+            ConnectionOpen();
+            comm.CommandType = CommandType.Text;
+            comm.Connection = con;
+            comm.CommandText = q;
+            try
+            {
+                comm.ExecuteNonQuery();
+            }
+            catch
+            {
+                success = false;
+            }
+            ConnectionCLose();
+
+            return success;
+        }
+
+        public bool DBCheck(string q)
+        {
+            bool exists = true;
+
+            comm = new SqlCommand();
+            ConnectionOpen();
+            comm.CommandType = CommandType.Text;
+            comm.Connection = con;
+            comm.CommandText = q;
+
+            int tagContentExist = (int)comm.ExecuteScalar();
+
+            if (!(tagContentExist > 0))
+                exists = false;
+
+            ConnectionCLose();
+
+            return exists;
+        }
     }
 }

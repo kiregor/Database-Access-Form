@@ -31,8 +31,7 @@ namespace HappyTechFeedbackGenerator
         public DBaccessForm()
         {
             InitializeComponent();
-            string s12 = DBContentAccess.accessstring();
-            this.richTextBox1.AppendText(s12);
+            richTextBox1.AppendText(DBContentAccess.accessstring());
         }
 
         //Initial highlighting of the very first tag, avoids confusion and future selection errors.
