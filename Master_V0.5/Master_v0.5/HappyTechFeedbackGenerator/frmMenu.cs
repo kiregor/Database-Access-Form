@@ -31,5 +31,13 @@ namespace HappyTechFeedbackGenerator
             Template.LoadTemplate();
 
         }
+
+        private void btnEditTemplate_Click(object sender, EventArgs e)
+        {
+            TemplateForm frmTemplate = new TemplateForm(SaveLoad.loadTemplate());
+            frmTemplate.FormClosed += (s, args) => this.Show();
+            frmTemplate.Show();
+            Hide();
+        }
     }
 }

@@ -31,6 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainMenu));
             this.bigRedButtonTEMP = new System.Windows.Forms.Button();
             this.btnNewFeedback = new System.Windows.Forms.Button();
+            this.btnEditTemplate = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // bigRedButtonTEMP
@@ -55,12 +56,23 @@
             this.btnNewFeedback.UseVisualStyleBackColor = false;
             this.btnNewFeedback.Click += new System.EventHandler(this.btnNewFeedback_Click);
             // 
+            // btnEditTemplate
+            // 
+            this.btnEditTemplate.Location = new System.Drawing.Point(226, 417);
+            this.btnEditTemplate.Name = "btnEditTemplate";
+            this.btnEditTemplate.Size = new System.Drawing.Size(164, 85);
+            this.btnEditTemplate.TabIndex = 2;
+            this.btnEditTemplate.Text = "Edit Template";
+            this.btnEditTemplate.UseVisualStyleBackColor = true;
+            this.btnEditTemplate.Click += new System.EventHandler(this.btnEditTemplate_Click);
+            // 
             // MainMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(646, 558);
+            this.Controls.Add(this.btnEditTemplate);
             this.Controls.Add(this.btnNewFeedback);
             this.Controls.Add(this.bigRedButtonTEMP);
             this.Name = "MainMenu";
@@ -73,6 +85,7 @@
 
         private System.Windows.Forms.Button bigRedButtonTEMP;
         private System.Windows.Forms.Button btnNewFeedback;
+        private System.Windows.Forms.Button btnEditTemplate;
     }
 }
 
