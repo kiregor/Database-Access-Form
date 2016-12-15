@@ -1,0 +1,11 @@
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\bin\Debug\find and replace.exe.config
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\obj\Debug\find and replace.csprojResolveAssemblyReference.cache
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\obj\Debug\find_and_replace.Form1.resources
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\obj\Debug\find_and_replace.Properties.Resources.resources
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\obj\Debug\find and replace.csproj.GenerateResource.Cache
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\bin\Debug\Database1.mdf
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\bin\Debug\Database1_log.ldf
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\bin\Debug\find and replace.exe
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\bin\Debug\find and replace.pdb
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\obj\Debug\find and replace.exe
+c:\users\patta\documents\visual studio 2015\Projects\find and replace\find and replace\obj\Debug\find and replace.pdb
