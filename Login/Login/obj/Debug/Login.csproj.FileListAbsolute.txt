@@ -1,0 +1,10 @@
+c:\users\patta\documents\visual studio 2015\Projects\Login\Login\bin\Debug\Login.exe.config
+C:\Users\patta\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\patta\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\Login.Form1.resources
+C:\Users\patta\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\Login.main.resources
+C:\Users\patta\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\patta\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\patta\Documents\Visual Studio 2015\Projects\Login\Login\bin\Debug\Login.exe
+C:\Users\patta\Documents\Visual Studio 2015\Projects\Login\Login\bin\Debug\Login.pdb
+C:\Users\patta\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\Login.exe
+C:\Users\patta\Documents\Visual Studio 2015\Projects\Login\Login\obj\Debug\Login.pdb
